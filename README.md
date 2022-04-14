@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**James-McK/James-McK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James, and thanks for checking out my profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on a [Catppuccin MusicBee theme](https://github.com/James-McK/Catppuccin-MusicBee)
+- 🌱 I’m currently learning about linux in general (planning to learn some C++ or Rust if I get time over the summer)
+- 👯 Happy to collaberate on anything, just let me know!
+- 💡 Interested in programming, privacy and FOSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also [contact me](https://mck.is/about#contact)
+
+### Those github stats everybody has
+
+![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=James-McK&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
