@@ -18,7 +18,3 @@ You can also [contact me](https://mck.is/about#contact)
 ### Projects
 
 I've made quite a few projects over the years that you can read about [on my website](https://mck.is/projects), but some of the more interesting ones are pinned below:
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=james-mck&repo=CSC1028APIs&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/James-McK/CSC1028APIs)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=james-mck&repo=CSC1028APIs&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/James-McK/CSC1028APIs)
-
