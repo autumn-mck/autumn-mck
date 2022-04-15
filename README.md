@@ -3,7 +3,7 @@
 I'm James, and thanks for checking out my profile.
 
 - 🔭 Currently working on a [Catppuccin MusicBee theme](https://github.com/James-McK/Catppuccin-MusicBee)
-- 🌱 I’m currently learning about linux in general (planning to learn some C++ or Rust if I get time over the summer)
+- 🌱 I’m currently learning about [linux](https://i-use-arch.fyi/james) in general (planning to learn some C++ or Rust if I get time over the summer)
 - 👯 Happy to collaberate on anything, just let me know!
 - 💡 Interested in programming, privacy and FOSS.
 
