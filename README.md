@@ -9,7 +9,7 @@ I'm James, and thanks for checking out my profile.
 
 You can also [contact me](https://mck.is/about#contact)
 
-### Those github stats everybody has
+### Github stats
 
 [![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=James-McK&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 
