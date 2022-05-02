@@ -9,7 +9,7 @@ I'm James, and thanks for checking out my profile.
 
 ### Github stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=James-McK&show_icons=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mck&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=James-McK&show_icons=true&count_private=true&hide=stars&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mck&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
