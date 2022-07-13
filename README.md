@@ -13,4 +13,4 @@ I'm James, and thanks for checking out my profile.
 
 ### Projects
 
-I've made quite a few projects over the years, with some of the more interesting ones pinned below:
+I've made quite a few projects over the years - I've described most of them [over here](https://mck.is/projects/), with a couple of the more interesting ones pinned below:
