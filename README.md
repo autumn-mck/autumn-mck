@@ -13,5 +13,4 @@ I'm James, and thanks for checking out my profile.
 
 ### Projects
 
-I've made quite a few projects over the years - I've described most of them [over here](https://mck.is/projects/), with a couple of the more interesting ones pinned below:
-(Note: My site is currently mostly in a state of disrepair, I'd avoid looking at it too closely until I get around to updating it
+I've made quite a few projects over the years, with most of them now hosted here on github:
