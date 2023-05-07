@@ -2,8 +2,7 @@
 
 I'm James, and thanks for checking out my profile.
 
-- Busy starting back into university
-- I’m currently learning about [linux](https://i-use-arch.fyi/james) in general, and experimenting with Rust
+- Busy finishing my 2nd year at uni
 - Happy to collaberate on anything, just let me know!
 - Interested in programming, FOSS and pretty much anything to do with technology.
 
