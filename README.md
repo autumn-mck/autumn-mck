@@ -2,7 +2,7 @@
 
 I'm James, and thanks for checking out my profile.
 
-- Busy finishing my 2nd year at uni
+- Currently enjoying my placement year, working as a Software Engineer
 - Happy to collaberate on anything, just let me know!
 - Interested in programming, FOSS and pretty much anything to do with technology.
 
