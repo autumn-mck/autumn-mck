@@ -2,9 +2,9 @@
 
 I'm James, and thanks for checking out my profile.
 
-- Currently enjoying my placement year, working as a Software Engineer
+- Currently enjoying my placement year, working as a Software Engineer @ Kainos
 - Happy to collaberate on anything, just let me know!
-- Interested in programming, FOSS and pretty much anything to do with technology.
+- Interested in programming, FOSS and pretty much anything to do with technology!
 
 ### Github stats
 
