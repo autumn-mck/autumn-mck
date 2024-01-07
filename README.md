@@ -2,7 +2,7 @@
 
 I'm James, and thanks for checking out my profile.
 
-- Currently enjoying my placement year, working as a Software Engineer @ Kainos
+- Currently enjoying my placement year, working as a Software Engineer at Kainos
 - Happy to collaberate on anything, just let me know!
 - Interested in programming, FOSS and pretty much anything to do with technology!
 
@@ -13,4 +13,5 @@ I'm James, and thanks for checking out my profile.
 
 ### Projects
 
-I've made quite a few projects over the years, with most of them now hosted here on github:
+I've made quite a few projects over the years, with most of them now hosted here on github.
+You can also read more about them at https://mck.is/projects/
