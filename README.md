@@ -1,10 +1,10 @@
-### Hey! 👋
+### Hey! o/
 
-I'm James, and thanks for checking out my profile.
+I'm <!-- Autumn --> James, and thanks for checking out my profile.
 
-- Currently enjoying my placement year, working as a Software Engineer at Kainos
-- Happy to collaberate on anything, just let me know!
-- Interested in programming, FOSS and pretty much anything to do with technology!
+- Busy enjoying my placement year, working as a Software Engineer at Kainos
+- Always happy to collaberate, just let me know!
+- Interested in programming, open source software, and pretty much everything related to technology or computers!
 
 ### Github stats
 
