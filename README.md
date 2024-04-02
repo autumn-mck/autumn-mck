@@ -3,7 +3,7 @@
 I'm <!-- Autumn --> James, and thanks for checking out my profile.
 
 - Busy enjoying my placement year, working as a Software Engineer at Kainos
-- Always happy to collaberate, just let me know!
+- Always happy to collaborate, just let me know!
 - Interested in programming, open source software, and pretty much everything related to technology or computers!
 
 ### Github stats
