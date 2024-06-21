@@ -1,9 +1,9 @@
-### Hey! o/
+### Hey o/
 
-I'm <!-- Autumn --> James, and thanks for checking out my profile.
+I'm <!-- Autumn --> James, and thanks for checking out my profile!
 
 - Busy preparing for my final year of CS @ QUB, having just finished my placement year as a Software Engineer at Kainos
-- Always happy to collaborate, just let me know!
+- Always happy to collaborate on projects, just let me know!
 - Interested in programming, open source software, and pretty much everything related to technology or computers!
 
 ### Github stats
@@ -13,5 +13,5 @@ I'm <!-- Autumn --> James, and thanks for checking out my profile.
 
 ### Projects
 
-I've made quite a few projects over the years, with most of them now hosted here on github.
+I've made quite a few projects over the years, with most of them now hosted here on github
 You can also read more about them at https://mck.is/projects/
