@@ -2,7 +2,7 @@
 
 I'm <!-- Autumn --> James, and thanks for checking out my profile!
 
-- Busy preparing for my final year of CS @ QUB, having just finished my placement year as a Software Engineer at Kainos
+- Busy enjoying my final year of CS @ QUB, having just finished my placement year as a Software Engineer at Kainos
 - Always happy to collaborate on projects, just let me know!
 - Interested in programming, open source software, and pretty much everything related to technology or computers!
 
