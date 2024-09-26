@@ -1,10 +1,9 @@
 ### Hey o/
 
-I'm <!-- Autumn --> James, and thanks for checking out my profile!
+I'm <!-- Autumn --> James, currently a final year CS student @ QUB
 
-- Busy enjoying my final year of CS @ QUB, having just finished my placement year as a Software Engineer at Kainos
-- Always happy to collaborate on projects, just let me know!
-- Interested in programming, open source software, and pretty much everything related to technology or computers!
+- Interested in basically anything to do with computers! Passionate about open source software and programming generally
+- Always up for working together on projects, just send me a message!
 
 ### Github stats
 
