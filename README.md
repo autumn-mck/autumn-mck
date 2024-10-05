@@ -12,5 +12,5 @@ I'm <!-- Autumn --> James, currently a final year CS student @ QUB
 
 ### Projects
 
-I've made quite a few projects over the years, with most of them now hosted here on github
+I've made quite a few projects over the years, with most of them now hosted here on github  
 You can also read more about them at https://mck.is/projects/
