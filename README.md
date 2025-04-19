@@ -1,6 +1,6 @@
 ### Hey o/
 
-I'm <!-- Autumn --> James, currently a final year CS student @ QUB
+I'm <!-- Autumn --> James, currently a final year CS student @ QUB, and summer student @ CERN between June and August
 
 - Interested in basically anything to do with computers! Passionate about open source software and programming generally
 - Always up for working together on projects, just send me a message!
