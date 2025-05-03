@@ -1,6 +1,6 @@
 ### heya o/
 
-I'm <!-- Autumn --> Autumn, I mess around with computers to make [cool stuff](https://mck.is/projects)  
+I'm <!-- Autumn --> James, I mess around with computers to make [cool stuff](https://mck.is/projects)  
 Currently: I'm a summer student at [CERN](https://home.cern) between June and August
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=autumn-mck&show_icons=true&count_private=true&bg_color=1e2030&text_color=cad3f5&icon_color=c6a0f6&title_color=8aadf4&hide_rank=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
