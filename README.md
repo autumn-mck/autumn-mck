@@ -1,4 +1,3 @@
-### heya o/
+### heya, I'm Autumn o/
 
-I'm Autumn, a software developer in Northern Ireland.  
-In my spare time, I also work on my own [projects](https://mck.is/projects)
+you can read about some of the [projects I've worked on](https://mck.is/projects)
