@@ -1,6 +1,6 @@
 ### heya, i'm Autumn o/
 
-a full-stack dev and sysadmin messing around with computers for fun
+i mess around with computers for fun
 
 ### selected projects
 
